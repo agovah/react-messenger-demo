@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4f833c6.chunk.css",
-    "main.js": "/static/js/main.f1cd2778.chunk.js",
-    "main.js.map": "/static/js/main.f1cd2778.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8c8db920.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8c8db920.js.map",
-    "static/js/2.28d4acca.chunk.js": "/static/js/2.28d4acca.chunk.js",
-    "static/js/2.28d4acca.chunk.js.map": "/static/js/2.28d4acca.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.419eb277f578634df78dc6b05a928918.js": "/precache-manifest.419eb277f578634df78dc6b05a928918.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d4f833c6.chunk.css.map": "/static/css/main.d4f833c6.chunk.css.map",
-    "static/js/2.28d4acca.chunk.js.LICENSE.txt": "/static/js/2.28d4acca.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Roboto-Regular.11eabca2.ttf"
+    "main.css": "/react-messenger-demo/static/css/main.e21a021a.chunk.css",
+    "main.js": "/react-messenger-demo/static/js/main.72fabdac.chunk.js",
+    "main.js.map": "/react-messenger-demo/static/js/main.72fabdac.chunk.js.map",
+    "runtime-main.js": "/react-messenger-demo/static/js/runtime-main.7bf1780a.js",
+    "runtime-main.js.map": "/react-messenger-demo/static/js/runtime-main.7bf1780a.js.map",
+    "static/js/2.b637551e.chunk.js": "/react-messenger-demo/static/js/2.b637551e.chunk.js",
+    "static/js/2.b637551e.chunk.js.map": "/react-messenger-demo/static/js/2.b637551e.chunk.js.map",
+    "index.html": "/react-messenger-demo/index.html",
+    "precache-manifest.3ce04d81dd3108e9c317ba337c50f791.js": "/react-messenger-demo/precache-manifest.3ce04d81dd3108e9c317ba337c50f791.js",
+    "service-worker.js": "/react-messenger-demo/service-worker.js",
+    "static/css/main.e21a021a.chunk.css.map": "/react-messenger-demo/static/css/main.e21a021a.chunk.css.map",
+    "static/js/2.b637551e.chunk.js.LICENSE.txt": "/react-messenger-demo/static/js/2.b637551e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-messenger-demo/static/media/Roboto-Regular.11eabca2.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c8db920.js",
-    "static/js/2.28d4acca.chunk.js",
-    "static/css/main.d4f833c6.chunk.css",
-    "static/js/main.f1cd2778.chunk.js"
+    "static/js/runtime-main.7bf1780a.js",
+    "static/js/2.b637551e.chunk.js",
+    "static/css/main.e21a021a.chunk.css",
+    "static/js/main.72fabdac.chunk.js"
   ]
 }
